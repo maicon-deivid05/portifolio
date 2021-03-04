@@ -6,6 +6,7 @@
 Portfólio criado com o intuito de mostrar que veio aprendendo.
 </h4>
 
+## 💻 Front-end
 ![Resultado final do projeto](assets/img/Video_1614804898.gif)
 
 ---
@@ -66,7 +67,7 @@ Clique **[aqui](http://emag.governoeletronico.gov.br/)** para ver as recomendaç
 
 ---
 
-<br>[🔝 Voltar ao topo](#-seções)<br>
+<br>[🔝 Voltar ao topo](#-front-end)<br>
 
 ## 🦄 Autor<br>
 <table>
